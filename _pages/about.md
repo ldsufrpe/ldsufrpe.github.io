@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://ufrpe.br/'>Universidade Federal Rural de Pernambuco</a>. Recife/PE.
 
 profile:
   align: right
