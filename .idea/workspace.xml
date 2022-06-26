@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ff1f03-39ee-499b-bcf9-65db8cc2415e" name="Changes" comment="update _config.yml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-    </list>
+    <list default="true" id="78ff1f03-39ee-499b-bcf9-65db8cc2415e" name="Changes" comment="update about.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656285139913</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update about.md">
+      <created>1656285557020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656285557020</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +194,7 @@
     <MESSAGE value="update prof_pic.jpg" />
     <MESSAGE value="update" />
     <MESSAGE value="update _config.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update _config.yml" />
+    <MESSAGE value="update about.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update about.md" />
   </component>
 </project>
