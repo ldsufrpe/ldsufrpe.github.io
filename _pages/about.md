@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>18 4th floor CEGEN</p>
-    <p>S/N Dom Manuel de Medeiros, Dois Irmãos, Recife PE</p>
+    <p>Recife PE</p>
     <p>52171-900, Brazil</p>
 
 news: true  # includes a list of news items
