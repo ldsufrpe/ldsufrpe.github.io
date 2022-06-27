@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ufrpe.br/'> Federal Rural University of Pernambuco</a>. Recife/PE.
+subtitle: <a href='http://ufrpe.br/'> Federal Rural University of Pernambuco</a>. Recife, PE.
 
 profile:
   align: right
