@@ -27,4 +27,4 @@ social: true  # includes social icons at the bottom of the page
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
 PhD in Computer Science from the UFPE Informatics Center (2019), Master in Mathematics from UFC (2010), and Graduate in Mathematics from UFRPE (2007). I am currently a professor at the Department of Mathematics at the Federal Rural University of Pernambuco. 
-I have experience in Discrete Differential Geometry and Quantum Computing. I work on the development of models for quantum transport on curved surfaces, quantum calculations and preparation of quantum states.
+I have experience in Discrete Differential Geometry and Quantum Computing. I work on the development of models for quantum transport on curved surfaces, quantum calculus and preparation of quantum states.
