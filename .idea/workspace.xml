@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ff1f03-39ee-499b-bcf9-65db8cc2415e" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <workItem from="1656279343528" duration="2235000" />
       <workItem from="1656283316117" duration="318000" />
       <workItem from="1656286450573" duration="3005000" />
-      <workItem from="1656289565331" duration="9616000" />
+      <workItem from="1656289565331" duration="9907000" />
     </task>
     <task id="LOCAL-00001" summary="update _config.yml and permission bin/deploy">
       <created>1656277575570</created>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656300459569</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update">
+      <created>1656300477730</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656300477730</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
