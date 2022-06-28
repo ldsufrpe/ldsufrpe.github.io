@@ -18,13 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
+A computational mathematician who studies discrete differential geometry, mathematical software, quantum computing, and applications of mathematics in the life sciences.
 
-[//]: # ()
-[//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
+My research relies on mathematical software and numerical and computational methods, emphasizing discrete calculus and quantum algorithms.
 
-[//]: # ()
-[//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
+Ph.D. in Computer Science from the [Federal University of Pernambuco](https://www.ufpe.br/) (UFPE), Degree in Mathematics from the  [Rural Federal University of Pernambuco](https://www.ufrpe.br/) (UFRPE), and a Master in Mathematics from the [Federal University of Ceará](https://www.ufc.br/) (UFC).
 
-PhD in Computer Science from the UFPE Informatics Center (2019), Master in Mathematics from UFC (2010), and Graduate in Mathematics from UFRPE (2007). I am currently a professor at the Department of Mathematics at the Federal Rural University of Pernambuco. 
-I have experience in Discrete Differential Geometry and Quantum Computing. I work on the development of models for quantum transport on curved surfaces, quantum calculus and preparation of quantum states.
+I am currently an Adjunct Professor in the [Department of Mathematics](https://www.dm.ufrpe.br/) at the [Federal Rural University of Pernambuco](https://www.ufpe.br/). 
+I also collaborate with the research group on Quantum Computing at the [UFPE Informatics Center](https://portal.cin.ufpe.br/).
