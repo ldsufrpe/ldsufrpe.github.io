@@ -9,7 +9,8 @@ nav: true
 
 - [Download Resume ](/assets/pdf/cv_resume.pdf)
 - [Download CV](/assets/pdf/cv_lattes.pdf)
-
+- [Lattes](http://lattes.cnpq.br/2239251029436873) (Portuguese Brazil)
+  
 
 <br>
 
