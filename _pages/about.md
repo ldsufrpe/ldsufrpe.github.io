@@ -22,7 +22,7 @@ A computational mathematician who studies discrete differential geometry, mathem
 
 My research relies on mathematical software and numerical and computational methods, emphasizing discrete calculus and quantum algorithms.
 
-Ph.D. in Computer Science from the [Federal University of Pernambuco](https://www.ufpe.br/) (UFPE), Degree in Mathematics from the  [Rural Federal University of Pernambuco](https://www.ufrpe.br/) (UFRPE), and a Master in Mathematics from the [Federal University of Ceará](https://www.ufc.br/) (UFC).
+Ph.D. in Computer Science from the [Federal University of Pernambuco](https://www.ufpe.br/) (UFPE), Degree in Mathematics from the  [Federal Rural University of Pernambuco](https://www.ufrpe.br/) (UFRPE), and a Master in Mathematics from the [Federal University of Ceará](https://www.ufc.br/) (UFC).
 
 I am currently an Adjunct Professor in the [Department of Mathematics](https://www.dm.ufrpe.br/) at the [Federal Rural University of Pernambuco](https://www.ufpe.br/). 
 I also collaborate with the research group on Quantum Computing at the [UFPE Informatics Center](https://portal.cin.ufpe.br/).
