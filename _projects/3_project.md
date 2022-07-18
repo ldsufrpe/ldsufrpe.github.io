@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: PyMat
+description: Python for Maths
+img: assets/img/logo_b2.png
 redirect: https://unsplash.com
 importance: 3
 category: University Extension
