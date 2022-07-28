@@ -3,7 +3,7 @@ layout: page
 title: PyMat
 description: Python for Maths
 img: assets/img/logo_b2.png
-redirect: https://unsplash.com
+redirect: https://pymat.com.br/
 importance: 3
 category: University Extension
 ---

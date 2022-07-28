@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ff1f03-39ee-499b-bcf9-65db8cc2415e" name="Changes" comment="update" />
+    <list default="true" id="78ff1f03-39ee-499b-bcf9-65db8cc2415e" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/assets/img/qc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/1_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/1_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/2_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/3_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/3_project.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +37,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2B8AGyDBP7hKoxuhDPeQq18SacL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -51,6 +62,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/.github/workflows" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -75,6 +87,9 @@
       <workItem from="1656437303798" duration="41000" />
       <workItem from="1657056301675" duration="3563000" />
       <workItem from="1657308354773" duration="26000" />
+      <workItem from="1658152005529" duration="1752000" />
+      <workItem from="1658967771914" duration="2236000" />
+      <workItem from="1658970114096" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="update _config.yml and permission bin/deploy">
       <created>1656277575570</created>
@@ -272,11 +287,37 @@
       <option name="project" value="LOCAL" />
       <updated>1656425521037</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <created>1658152181772</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1658152181772</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1658152881776</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658152881776</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -302,6 +343,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update _config.yml and permission bin/deploy" />
     <MESSAGE value="update _pages" />
     <MESSAGE value="update _publi" />
