@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Federal University of Pernambuco, Pernanbuco, Brazil
+      institution: Federal University of Pernambuco, Pernambuco, Brazil
       year: 2019
       description:
         - Computer Science.
@@ -47,12 +47,25 @@
       institution: Federal Rural University of Pernambuco, Pernambuco, Brazil.
       year: 2019-2021
 
+    - title: ...
+      institution: ...
+      year: ...
+      description:
+        - Insira aqui outras experiências profissionais.
+
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/qclib">qclib</a>
       year: 2015-now
       description: Quantum computing library implemented using qiskit.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: ...
+      items:
+        - Insira seus prêmios e honrarias aqui.
 
 - title: Academic Interests
   type: nested_list
@@ -62,11 +75,19 @@
         - quantum algorithms
 
     - title: Discrete Calculus
-      items:
-        -  discrete differential geometry
-        -  quantum calculus
+      items: 
+        - discrete differential geometry
+        - quantum calculus
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Disciplina ...
+      institution: UFRPE
+      year: ...
+      description: Descrição da disciplina ou curso ministrado.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Web development.
+    - <u>Hobbies:</u> Web development, ...
