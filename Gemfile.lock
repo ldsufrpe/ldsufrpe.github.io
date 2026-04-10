@@ -173,6 +173,7 @@ GEM
       prism (~> 1.5)
     multi_xml (0.7.1)
       bigdecimal (~> 3.1)
+    mutex_m (0.3.0)
     namae (1.2.0)
       racc (~> 1.7)
     nokogiri (1.19.2-aarch64-linux-gnu)
@@ -183,6 +184,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.19.2-x86_64-linux-gnu)
       racc (~> 1.4)
+    observer (0.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     prism (1.9.0)
@@ -222,6 +224,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
   classifier-reborn
   css_parser
   feedjira
@@ -244,6 +247,8 @@ DEPENDENCIES
   jekyll-twitter-plugin
   jemoji
   mini_racer
+  mutex_m
+  observer
   unicode_utils
   webrick
 

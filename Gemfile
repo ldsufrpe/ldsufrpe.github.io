@@ -22,6 +22,12 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+
+# Compatibilidade para Ruby 3.3+
+gem 'observer'
+gem 'mutex_m'
+gem 'base64'
+
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
