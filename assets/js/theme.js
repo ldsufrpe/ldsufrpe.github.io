@@ -8,6 +8,10 @@ let toggleTheme = (theme) => {
   }
 }
 
+let determineComputedTheme = () => {
+  return document.documentElement.getAttribute('data-theme') || 'light';
+}
+
 
 let setTheme = (theme) =>  {
   transTheme();

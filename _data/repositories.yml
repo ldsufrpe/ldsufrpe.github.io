@@ -1,14 +1,21 @@
+# ==============================================================================
+# GitHub Repositories Configuration
+# ==============================================================================
+# Use este arquivo para configurar quais repositórios do GitHub devem ser 
+# exibidos na página "Repositories".
+#
+# Para adicionar repositórios científicos vinculados aos seus artigos:
+# 1. Adicione o repositório na lista 'github_repos' abaixo.
+# 2. Formato: 'usuário/nome-do-repositório' (ex: 'ldsufrpe/PySymmetry')
+# ==============================================================================
+
 github_users:
-  - torvalds
-  - alshedivat
+  - ldsufrpe
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - qclib/qclib
+  # Adicione seus outros repositórios científicos abaixo:
+  # - usuario/projeto-artigo-1
+  # - usuario/projeto-artigo-2

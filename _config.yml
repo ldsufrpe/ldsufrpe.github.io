@@ -49,7 +49,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -598,10 +598,16 @@ third_party_libraries:
     version: "11.0.5"
   swiper-map:
     integrity:
-      js: "sha256-hlZaH8ySXX97bZaetnrtYlKuhx3oEXFz/s2IXchu6vk="
+      js: "sha256-R8T65v7IOfw+I9rJdZg6eLaxnI2oK9nAnm97vSjA90o="
     url:
-      js: "https://cdn.jsdelivr.net/npm/swiper@11.1.0/swiper-element-bundle.min.js.map"
-    version: "11.0.5"
+      js: "https://cdn.jsdelivr.net/npm/leaflet-swiper@{{version}}/dist/leaflet-swiper.min.js"
+    version: "1.0.0"
+  tabler-icons:
+    integrity:
+      css: "sha256-6mS87U96vAnY66qYpSST85S66ZBeZp99InoE5LInOfg="
+    url:
+      css: "https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@{{version}}/tabler-icons.min.css"
+    version: "2.44.0"
   vega:
     integrity:
       js: "sha256-Yot/cfgMMMpFwkp/5azR20Tfkt24PFqQ6IQS+80HIZs="
