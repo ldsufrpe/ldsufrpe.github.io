@@ -3,91 +3,115 @@
   contents:
     - name: Full Name
       value: Leon Denis da Silva
-    - name: Date of Birth
-      value: 2th August 1981
-    - name: Languages
-      value:  Portuguese, English
+    - name: Institution
+      value: Department of Mathematics, Federal Rural University of Pernambuco (UFRPE)
+    - name: Location
+      value: Recife, Pernambuco, Brazil
+    - name: Email
+      value: '<a href="mailto:leon.silva@ufrpe.br">leon.silva@ufrpe.br</a>'
+    - name: Academic Profiles
+      value: '<a href="http://lattes.cnpq.br/2239251029436873">Lattes</a> · <a href="https://orcid.org/0000-0002-2823-3418">ORCID</a> · <a href="https://scholar.google.com/citations?user=FeziJbsAAAAJ">Google Scholar</a>'
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Federal University of Pernambuco, Pernambuco, Brazil
-      year: 2019
+    - title: Ph.D. in Computer Science
+      institution: Federal University of Pernambuco (UFPE), Brazil
+      year: 2015–2019
       description:
-        - Computer Science.
-        - title: keywords
-          contents:
-            - discrete differential geometry
-            - quantum transport
-    - title: Master
-      institution: Federal University of Ceará, Ceará, Brazil
-      year: 2010
+        - 'Thesis: A discrete exterior calculus approach to quantum transport on surfaces.'
+        - 'Advisor: Sílvio de Barros Melo. Co-advisor: Antonio Murilo Santos Macêdo.'
+    - title: Master's Degree in Mathematics
+      institution: Federal University of Ceará (UFC), Brazil
+      year: 2008–2010
       description:
-        - Mathematics
-        - title: keywords
-          contents:
-            - differential geometry
-
-    - title: University graduate
-      institution: Federal Rural University of Pernambuco, Pernambuco, Brazil
-      year: 2008
+        - 'Dissertation: Estimativa de Autovalores para Subvariedades de Curvatura Média Localmente Limitadas em N x R.'
+        - 'Advisor: Gregório Pacelli Feitosa Bessa.'
+    - title: Teaching Degree in Mathematics (Licenciatura)
+      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
+      year: 2003–2007
+    - title: Specialization in Quantum Computing
+      institution: SENAI CIMATEC, Brazil
       description:
-          - Mathematics
+        - iNOVA Pós program, including practical work on quantum computers and projects directed toward industry and innovation.
 
-
-- title: Experience
+- title: Academic Appointments and Service
   type: time_table
   contents:
     - title: Professor of Mathematics
-      institution: Federal Rural University of Pernambuco, Pernambuco, Brazil
-      year: 2011 - Atual
-
-    - title: Mathematics Supervisor
-      institution: Federal Rural University of Pernambuco, Pernambuco, Brazil.
-      year: 2019-2021
-
-    - title: ...
-      institution: ...
-      year: ...
+      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
+      year: 2011–present
       description:
-        - Insira aqui outras experiências profissionais.
+        - Full-time appointment with exclusive dedication.
+    - title: Coordinator of the proposal for an Academic Master's Program in Applied Mathematics
+      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
+      description:
+        - Coordination of the proposal for a new graduate program.
+    - title: Deputy Coordinator, Regional 03
+      institution: Brazilian Society of Applied and Computational Mathematics (SBMAC)
+    - title: Mathematics Area Supervisor
+      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
+      year: 2019–2021
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/qclib">qclib</a>
-      year: 2015-now
-      description: Quantum computing library implemented using qiskit.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: ...
-      items:
-        - Insira seus prêmios e honrarias aqui.
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Quantum Computer
-      items: 
-        - quantum algorithms
+    - title: Discrete Geometry and Applied Topology
+      items:
+        - Discrete exterior calculus and structure-preserving numerical methods.
+        - Discrete curvature in complex networks.
+    - title: Symmetry and Scientific Computing
+      items:
+        - Representation theory and symmetry reduction of linear systems.
+        - Symbolic computation and mathematical software with SageMath and Python.
+    - title: Quantum Computing
+      items:
+        - Quantum state preparation and quantum algorithms.
+        - Variational quantum circuits and molecular point-group symmetries.
 
-    - title: Discrete Calculus
-      items: 
-        - discrete differential geometry
-        - quantum calculus
-
-- title: Teaching
+- title: Research Projects
   type: time_table
   contents:
-    - title: Disciplina ...
-      institution: UFRPE
-      year: ...
-      description: Descrição da disciplina ou curso ministrado.
+    - title: 'Variational Quantum Circuits: Architecture, Computability, Training, and Applications'
+      institution: UFPE Informatics Center, Brazil
+      year: 2025–present
+      description:
+        - Research team member.
+    - title: Collaborative theorem proving with large language models
+      institution: UFRPE, Brazil
+      year: 2024–present
+      description:
+        - Project coordinator.
+    - title: Quantum state preparation algorithms
+      institution: UFRPE, Brazil
+      year: 2021–present
+      description:
+        - Project coordinator. Financial support from FACEPE.
+    - title: PyMat — Python for Mathematics
+      institution: UFRPE, Brazil
+      year: 2021–2022
+      description:
+        - Coordinator of an extension project connecting programming, mathematics, and science.
 
-- title: Other Interests
+- title: Scientific Software and Books
+  type: time_table
+  contents:
+    - title: '<a href="https://github.com/ldsufrpe/pysymmetry">PySymmetry</a>'
+      description:
+        - Sage/Python framework for the symmetry reduction of linear G-equivariant systems, developed with Marcelo P. Santos.
+    - title: '<a href="https://github.com/qclib/qclib">Qclib</a>'
+      description:
+        - Contributor to a Qiskit-based quantum computing library focused on quantum state preparation.
+    - title: Elementos de Computação Matemática com SageMath
+      institution: Sociedade Brasileira de Matemática (SBM)
+      year: 2019
+      description:
+        - Co-authored with Marcelo Pedro dos Santos and Ricardo Nunes Machado Júnior.
+
+- title: Teaching and Supervision
   type: list
   contents:
-    - <u>Hobbies:</u> Web development, ...
+    - Undergraduate teaching in mathematics, computer science, engineering, physics, economics, and administration at UFRPE.
+    - Doctoral co-supervision at UFPE on quantum machine learning for quantum state preparation.
+    - Student supervision on sparse quantum state preparation and matrix decompositions in quantum computing.
+    - '<a href="/teaching/">Course materials, talks, and educational resources</a>.'

@@ -15,7 +15,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ldsufrpe/pysymmetry
+  - ldsufrpe/dec-equivariance
   - qclib/qclib
-  # Adicione seus outros repositórios científicos abaixo:
-  # - usuario/projeto-artigo-1
-  # - usuario/projeto-artigo-2

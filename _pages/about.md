@@ -2,27 +2,28 @@
 layout: about
 title: about
 permalink: /
-
-[//]: # (subtitle: <a href='http://ufrpe.br/'> <a href='http://dm.ufrpe.br/'> Mathematics Department</a> &#40;UFRPE&#41;, Recife.)
-description: Mathematics, Quantum Computer, Simulation
+subtitle: <a href="https://www.dm.ufrpe.br/">Department of Mathematics</a> · <a href="https://www.ufrpe.br/">UFRPE</a> · Recife, Brazil
+description: Applied mathematics, discrete geometry, scientific computing, and quantum algorithms.
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
-  address: >
-    <p>Somewhere in Recife-PE, Brazil </p>
-    
-
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  image_circular: false
+  more_info: >
+    <p>Department of Mathematics</p>
+    <p>UFRPE · Recife, Brazil</p>
+news: false
+selected_papers: true
+social: true
 ---
 
-A computational mathematician who studies discrete differential geometry, mathematical software, quantum computing, and applications of mathematics in the life sciences.
+I am a mathematician and professor in the [Department of Mathematics](https://www.dm.ufrpe.br/) at the [Federal Rural University of Pernambuco](https://www.ufrpe.br/) (UFRPE), where I have held a full-time position with exclusive dedication since 2011.
 
-My research relies on mathematical software and numerical and computational methods, emphasizing discrete calculus and quantum algorithms.
+My research brings together **discrete geometry, scientific computing, and quantum algorithms**. I work on discrete exterior calculus, applied topology, discrete curvature in complex networks, and symmetry methods for mathematical and computational problems. My recent work includes symmetry reduction of linear systems, structure-preserving computations on meshes, and point-group symmetry in variational quantum algorithms.
 
-Ph.D. in Computer Science from the [Federal University of Pernambuco](https://www.ufpe.br/) (UFPE), a Master in Mathematics from the [Federal University of Ceará](https://www.ufc.br/) (UFC), and Degree in Mathematics from the  [Federal Rural University of Pernambuco](https://www.ufrpe.br/) (UFRPE)
+I hold a Ph.D. in Computer Science from [UFPE](https://www.ufpe.br/), a master's degree in Mathematics from [UFC](https://www.ufc.br/), and a teaching degree in Mathematics from UFRPE. I also completed a specialization in Quantum Computing at SENAI CIMATEC through the iNOVA Pós program, with practical work on quantum computers and projects directed toward industry and innovation.
 
-I am currently an Adjunct Professor in the [Department of Mathematics](https://www.dm.ufrpe.br/) at the [Federal Rural University of Pernambuco](https://www.ufpe.br/). 
-I also collaborate with the research group on Quantum Computing at the [UFPE Informatics Center](https://portal.cin.ufpe.br/).
+I coordinate the proposal for a new **Academic Master's Program in Applied Mathematics at UFRPE** and currently serve as deputy coordinator of **Regional 03 of the Brazilian Society of Applied and Computational Mathematics (SBMAC)**. I also collaborate on quantum computing research at the [UFPE Informatics Center](https://portal.cin.ufpe.br/).
+
+I co-develop [PySymmetry](https://github.com/ldsufrpe/pysymmetry), a Sage/Python framework for symmetry reduction, and contribute to [Qclib](https://github.com/qclib/qclib), a quantum computing library focused on quantum state preparation. I am also a co-author of *Elementos de Computação Matemática com SageMath*, published by the Brazilian Mathematical Society (SBM).
+
+For my academic background and activities, see my [CV](/cv/) and [Lattes curriculum](http://lattes.cnpq.br/2239251029436873). Contact: [leon.silva@ufrpe.br](mailto:leon.silva@ufrpe.br).
