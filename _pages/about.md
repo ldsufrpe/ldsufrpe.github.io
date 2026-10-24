@@ -6,7 +6,7 @@ subtitle: <a href="https://www.dm.ufrpe.br/">Department of Mathematics</a> · <a
 description: Applied mathematics, discrete geometry, scientific computing, and quantum algorithms.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: leon-denis-silva.png
   image_circular: false
   more_info: >
     <p>Department of Mathematics</p>
