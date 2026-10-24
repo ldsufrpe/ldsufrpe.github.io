@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-Journal publications and their preprints are listed as a single work. PySymmetry is available online in 2026 and assigned to the January 2027 issue of *Computer Physics Communications*.
+Journal publications and their preprints are listed as a single work. PySymmetry is available online in 2026 and assigned to the January 2027 issue of _Computer Physics Communications_.
 
-The preprint previously titled *Lie-algebraic incompleteness of symmetry-adapted VQE for non-Abelian molecular point groups* has been superseded by version 3, *Point-group filtering in unitary coupled-cluster ansätze*, under the same arXiv identifier.
+The preprint previously titled _Lie-algebraic incompleteness of symmetry-adapted VQE for non-Abelian molecular point groups_ has been superseded by version 3, _Point-group filtering in unitary coupled-cluster ansätze_, under the same arXiv identifier.
 
 [Google Scholar](https://scholar.google.com/citations?user=FeziJbsAAAAJ) · [ORCID](https://orcid.org/0000-0002-2823-3418) · [Lattes](http://lattes.cnpq.br/2239251029436873)
 

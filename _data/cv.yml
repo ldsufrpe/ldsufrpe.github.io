@@ -1,117 +1,100 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Leon Denis da Silva
-    - name: Institution
-      value: Department of Mathematics, Federal Rural University of Pernambuco (UFRPE)
-    - name: Location
-      value: Recife, Pernambuco, Brazil
-    - name: Email
-      value: '<a href="mailto:leon.silva@ufrpe.br">leon.silva@ufrpe.br</a>'
-    - name: Academic Profiles
-      value: '<a href="http://lattes.cnpq.br/2239251029436873">Lattes</a> · <a href="https://orcid.org/0000-0002-2823-3418">ORCID</a> · <a href="https://scholar.google.com/citations?user=FeziJbsAAAAJ">Google Scholar</a>'
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Computer Science
-      institution: Federal University of Pernambuco (UFPE), Brazil
-      year: 2015–2019
-      description:
-        - 'Thesis: A discrete exterior calculus approach to quantum transport on surfaces.'
-        - 'Advisor: Sílvio de Barros Melo. Co-advisor: Antonio Murilo Santos Macêdo.'
-    - title: Master's Degree in Mathematics
-      institution: Federal University of Ceará (UFC), Brazil
-      year: 2008–2010
-      description:
-        - 'Dissertation: Estimativa de Autovalores para Subvariedades de Curvatura Média Localmente Limitadas em N x R.'
-        - 'Advisor: Gregório Pacelli Feitosa Bessa.'
-    - title: Teaching Degree in Mathematics (Licenciatura)
-      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
-      year: 2003–2007
-    - title: Specialization in Quantum Computing
-      institution: SENAI CIMATEC, Brazil
-      description:
-        - iNOVA Pós program, including practical work on quantum computers and projects directed toward industry and innovation.
-
-- title: Academic Appointments and Service
-  type: time_table
-  contents:
-    - title: Professor of Mathematics
-      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
-      year: 2011–present
-      description:
-        - Full-time appointment with exclusive dedication.
-    - title: Coordinator of the proposal for an Academic Master's Program in Applied Mathematics
-      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
-      description:
-        - Coordination of the proposal for a new graduate program.
-    - title: Deputy Coordinator, Regional 03
-      institution: Brazilian Society of Applied and Computational Mathematics (SBMAC)
-    - title: Mathematics Area Supervisor
-      institution: Federal Rural University of Pernambuco (UFRPE), Brazil
-      year: 2019–2021
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Discrete Geometry and Applied Topology
-      items:
-        - Discrete exterior calculus and structure-preserving numerical methods.
-        - Discrete curvature in complex networks.
-    - title: Symmetry and Scientific Computing
-      items:
-        - Representation theory and symmetry reduction of linear systems.
-        - Symbolic computation and mathematical software with SageMath and Python.
-    - title: Quantum Computing
-      items:
-        - Quantum state preparation and quantum algorithms.
-        - Variational quantum circuits and molecular point-group symmetries.
-
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: 'Variational Quantum Circuits: Architecture, Computability, Training, and Applications'
-      institution: UFPE Informatics Center, Brazil
-      year: 2025–present
-      description:
-        - Research team member.
-    - title: Collaborative theorem proving with large language models
-      institution: UFRPE, Brazil
-      year: 2024–present
-      description:
-        - Project coordinator.
-    - title: Quantum state preparation algorithms
-      institution: UFRPE, Brazil
-      year: 2021–present
-      description:
-        - Project coordinator. Financial support from FACEPE.
-    - title: PyMat — Python for Mathematics
-      institution: UFRPE, Brazil
-      year: 2021–2022
-      description:
-        - Coordinator of an extension project connecting programming, mathematics, and science.
-
-- title: Scientific Software and Books
-  type: time_table
-  contents:
-    - title: '<a href="https://github.com/ldsufrpe/pysymmetry">PySymmetry</a>'
-      description:
-        - Sage/Python framework for the symmetry reduction of linear G-equivariant systems, developed with Marcelo P. Santos.
-    - title: '<a href="https://github.com/qclib/qclib">Qclib</a>'
-      description:
-        - Contributor to a Qiskit-based quantum computing library focused on quantum state preparation.
-    - title: Elementos de Computação Matemática com SageMath
-      institution: Sociedade Brasileira de Matemática (SBM)
-      year: 2019
-      description:
-        - Co-authored with Marcelo Pedro dos Santos and Ricardo Nunes Machado Júnior.
-
-- title: Teaching and Supervision
-  type: list
-  contents:
-    - Undergraduate teaching in mathematics, computer science, engineering, physics, economics, and administration at UFRPE.
-    - Doctoral co-supervision at UFPE on quantum machine learning for quantum state preparation.
-    - Student supervision on sparse quantum state preparation and matrix decompositions in quantum computing.
-    - '<a href="/teaching/">Course materials, talks, and educational resources</a>.'
+cv:
+  name: Leon Denis da Silva
+  label: Mathematician · UFRPE
+  email: leon.silva@ufrpe.br
+  location: Recife, Pernambuco, Brazil
+  summary: Professor of Mathematics at UFRPE since 2011. Research in discrete geometry, scientific computing, symmetry reduction, and
+    quantum algorithms. [Full curriculum on Lattes](http://lattes.cnpq.br/2239251029436873).
+  website: https://ldsufrpe.github.io
+  sections:
+    Education:
+      - institution: Federal University of Pernambuco (UFPE)
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Thesis: A discrete exterior calculus approach to quantum transport on surfaces."
+          - "Advisor: Sílvio de Barros Melo. Co-advisor: Antonio Murilo Santos Macêdo."
+      - institution: Federal University of Ceará (UFC)
+        area: Mathematics
+        studyType: Master’s degree
+        start_date: 2008
+        end_date: 2010
+        highlights:
+          - "Dissertation: Estimativa de Autovalores para Subvariedades de Curvatura Média Localmente Limitadas em N x R."
+          - "Advisor: Gregório Pacelli Feitosa Bessa."
+      - institution: Federal Rural University of Pernambuco (UFRPE)
+        area: Mathematics
+        studyType: Teaching degree (Licenciatura)
+        start_date: 2003
+        end_date: 2007
+      - institution: SENAI CIMATEC
+        area: Quantum Computing
+        studyType: Specialization
+        highlights:
+          - iNOVA Pós program, with practical work on quantum computers and projects directed toward industry and innovation.
+    Experience:
+      - company: Federal Rural University of Pernambuco (UFRPE)
+        position: Professor of Mathematics
+        start_date: 2011
+        end_date: present
+        summary: Full-time appointment with exclusive dedication.
+      - company: Federal Rural University of Pernambuco (UFRPE)
+        position: Coordinator of the proposal for an Academic Master’s Program in Applied Mathematics
+      - company: Brazilian Society of Applied and Computational Mathematics (SBMAC)
+        position: Deputy Coordinator, Regional 03
+      - company: Federal Rural University of Pernambuco (UFRPE)
+        position: Mathematics Area Supervisor
+        start_date: 2019
+        end_date: 2021
+    Projects:
+      - name: "Variational Quantum Circuits: Architecture, Computability, Training, and Applications"
+        start_date: 2025
+        end_date: present
+        summary: Research team member at the UFPE Informatics Center.
+      - name: Collaborative theorem proving with large language models
+        start_date: 2024
+        end_date: present
+        summary: Project coordinator at UFRPE.
+      - name: Quantum state preparation algorithms
+        start_date: 2021
+        end_date: present
+        summary: Project coordinator at UFRPE. Financial support from FACEPE.
+      - name: PyMat — Python for Mathematics
+        start_date: 2021
+        end_date: 2022
+        summary: Coordinator of an extension project connecting programming, mathematics, and science.
+    Software and Books:
+      - label: PySymmetry
+        details: <a href="https://github.com/ldsufrpe/pysymmetry">Source code</a>. Sage/Python framework for symmetry reduction, developed
+          with Marcelo P. Santos.
+      - label: Qclib
+        details: <a href="https://github.com/qclib/qclib">Source code</a>. Contributor to a Qiskit-based quantum computing library focused
+          on quantum state preparation.
+      - label: Elementos de Computação Matemática com SageMath
+        details: Co-authored with Marcelo Pedro dos Santos and Ricardo Nunes Machado Júnior. Sociedade Brasileira de Matemática, 2019.
+    Teaching and Supervision:
+      - label: Undergraduate teaching
+        details: Mathematics, computer science, engineering, physics, economics, and administration at UFRPE.
+      - label: Doctoral co-supervision
+        details: Quantum machine learning for quantum state preparation at UFPE.
+      - label: Student supervision
+        details: Sparse quantum state preparation and matrix decompositions in quantum computing.
+    Academic Interests:
+      - name: Discrete Geometry and Applied Topology
+        keywords:
+          - Discrete exterior calculus and structure-preserving numerical methods.
+          - Discrete curvature in complex networks.
+      - name: Symmetry and Scientific Computing
+        keywords:
+          - Representation theory and symmetry reduction of linear systems.
+          - Symbolic computation and mathematical software with SageMath and Python.
+      - name: Quantum Computing
+        keywords:
+          - Quantum state preparation and quantum algorithms.
+          - Variational quantum circuits and molecular point-group symmetries.
+  address:
+    city: Recife
+    region: Pernambuco
+    countryCode: BR
